@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raed-issa99
-- 👀 I’m interested in Economics, Game development and programming
+- 👀 I’m interested in Game development and programming
 - 🌱 I’m currently learning unreal\unity
 - 📫 How to reach me: through email. 
 
